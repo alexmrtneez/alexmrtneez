@@ -11,7 +11,7 @@
 ### 📂 About this profile
 Here I publish my personal projects and academic collaborations, ranging from algorithmic implementations to full-stack applications.
 
-[📫 Contact Me](mailto:alejandro.mdcastillo@gmail.com) • [🔗 LinkedIn](www.linkedin.com/in/alejandro-rutilo-martinez)
+[📫 Contact Me](mailto:alejandro.mdcastillo@gmail.com) • [🔗 LinkedIn](https://www.linkedin.com/in/alejandro-rutilo-martinez/)
 <!--
 **alexmrtneez/alexmrtneez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
