@@ -1,5 +1,18 @@
-## Hi there 👋
+## Hello world! I'm Alejandro 🚀
 
+**Computer Science & Mathematics Student @ UGR**
+
+I build software with a strong mathematical foundation.
+
+---
+
+### 🛠️ Tech Stack
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### 📂 About this profile
+Here I publish my personal projects and academic collaborations, ranging from algorithmic implementations to full-stack applications.
+
+[📫 Contact Me](mailto:alejandro.mdcastillo@gmail.com) • [🔗 LinkedIn](www.linkedin.com/in/alejandro-rutilo-martinez)
 <!--
 **alexmrtneez/alexmrtneez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
