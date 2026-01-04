@@ -2,8 +2,6 @@
 
 **Computer Science & Mathematics Student @ UGR**
 
-I build software with a strong mathematical foundation.
-
 ---
 
 ### 🛠️ Tech Stack
