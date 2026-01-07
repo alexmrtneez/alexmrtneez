@@ -1,4 +1,4 @@
-## Hello world! I'm Alejandro 🚀
+## Hello world! I am Alejandro 🚀
 
 **Computer Science & Mathematics Student @ UGR**
 
