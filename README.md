@@ -1,6 +1,6 @@
 ## Hello world! I am Alejandro 🚀
 
-**Computer Science & Mathematics Student @ UGR**
+**Computer Science & Mathematics Graduate**
 
 ---
 
