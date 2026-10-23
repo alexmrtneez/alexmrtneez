@@ -2,7 +2,10 @@
 
 **Computer Science & Mathematics Graduate**
 
----
+## About me
+Master's student in Data Science & Computer Engineering at the University of Granada with a strong background in analytical problem-solving. Passionate about bridging the gap between Software Engineering and Data Science to build scalable, intelligent, and data-driven systems.
+
+💡 Core Focus: Machine Learning | Data Science | Bioinformatics | Software Engineering
 
 ### 🤖 Artificial Intelligence & Data
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -57,7 +60,7 @@
 
 
 ### 📂 About this profile
-Here I publish my personal projects and academic collaborations, ranging from algorithmic implementations to full-stack applications.
+This profile showcases my personal projects, academic research, and engineering work—ranging from core algorithmic implementations to full-stack applications. These projects were developed across the **University of Granada** and the **University of Łódź**, as well as through my **Research Initiation Fellowship** at UGR.
 
 [📫 Contact Me](mailto:alejandro.mdcastillo@gmail.com) • [🔗 LinkedIn](https://www.linkedin.com/in/alejandro-rutilo-martinez/)
 <!--
