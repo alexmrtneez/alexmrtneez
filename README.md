@@ -5,6 +5,13 @@
 ## About me
 Master's student in Data Science & Computer Engineering at the University of Granada with a strong background in analytical problem-solving. Passionate about bridging the gap between Software Engineering and Data Science to build scalable, intelligent, and data-driven systems.
 
+Here you can see my portfolio:
+
+![Portfolio](https://alexmrtneez.github.io/))
+
+
+
+
 💡 Core Focus: Machine Learning | Data Science | Bioinformatics | Software Engineering
 
 ### 🤖 Artificial Intelligence & Data
